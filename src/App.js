@@ -15,7 +15,7 @@ function App() {
         </button>
         <div>
           <h3>Health</h3>
-          <p id="health">20</p>
+          <p id="health" style={{ fontSize: 40 }} >20</p>
         </div>
       </body>
     </div>
